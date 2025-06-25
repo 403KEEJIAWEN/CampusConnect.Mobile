@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\services\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\pendingfriendrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\pendingfriendrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\togglelikerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\togglelikerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\userfriend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\viewmodels\\pendingrequestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\viewmodels\\pendingrequestsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\viewmodels\\searchfriendsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\viewmodels\\searchfriendsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\mainmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\mainmenupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\services\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\friendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\friend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\changepasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\changepasswordpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\editprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\editprofilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\registrationpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\searchfriendspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\searchfriendspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\createpostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\createpostpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\postpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\postpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\profilepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\mypostspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\mypostspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\views\\pendingrequestspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\views\\pendingrequestspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\likeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\likeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\friendsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\friendsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\friendmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\friendmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\models\\friendship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\campusconnect.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\campusconnect.mobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|c:\\users\\admin\\source\\repos\\campusconnect.mobile\\campusconnect.mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862C98E7-3846-46E2-8901-7E818C30236E}|CampusConnect.Mobile\\CampusConnect.Mobile.csproj|solutionrelative:campusconnect.mobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampusConnect.Mobile\\Views\\SearchPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampusConnect.Mobile\\Views\\SearchPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\FriendsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampusConnect.Mobile\\Views\\FriendsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CampusConnect.Mobile\\Views\\ProfilePage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\IApiService.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Services\\IApiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\IApiService.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Services\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:00:28.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\INavigationService.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Services\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\INavigationService.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Services\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:30:21.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:56:01.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainMenuPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\MainMenuPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\MainMenuPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\MainMenuPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\MainMenuPage.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAcwAcBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:50:40.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:13:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SearchFriendsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\SearchFriendsViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\ViewModels\\SearchFriendsViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\SearchFriendsViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\ViewModels\\SearchFriendsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:27:44.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PendingRequestsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\PendingRequestsViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\ViewModels\\PendingRequestsViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\PendingRequestsViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\ViewModels\\PendingRequestsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:28:26.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserFriend.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\UserFriend.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\UserFriend.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\UserFriend.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\UserFriend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:29:17.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToggleLikeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ToggleLikeRequest.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\ToggleLikeRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ToggleLikeRequest.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\ToggleLikeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T15:39:40.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Post.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\Post.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:38:01.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PendingFriendRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\PendingFriendRequestViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\PendingFriendRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\PendingFriendRequestViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\PendingFriendRequestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:20:05.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\NavigationService.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Services\\NavigationService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:30:44.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Services\\ApiService.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Services\\ApiService.cs",
+              "ViewState": "AgIAANQBAAAAAAAAAAAAwO4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:07:30.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FriendRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendRequest.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\FriendRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendRequest.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\FriendRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:37:27.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Friend.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Friend.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\Friend.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Friend.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\Friend.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:36:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\EditProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\EditProfileViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\EditProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:15:47.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChangePasswordPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ChangePasswordPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\ChangePasswordPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ChangePasswordPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\ChangePasswordPage.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:24:56.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:12:26.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\RegistrationRequest.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\RegistrationRequest.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\RegistrationRequest.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:14:41.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\Like.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Like.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\Like.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:08:57.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\RegistrationPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\RegistrationPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\RegistrationPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\RegistrationPage.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T16:05:09.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\EditProfilePage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\EditProfilePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\EditProfilePage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\EditProfilePage.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAAwN4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:22:41.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreatePostPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\CreatePostPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\CreatePostPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\CreatePostPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\CreatePostPage.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAwJsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T07:36:57.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PostPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\PostPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\PostPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\PostPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\PostPage.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAADoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T02:48:58.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchFriendsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchFriendsPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\SearchFriendsPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchFriendsPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\SearchFriendsPage.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAhwHUAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:31:32.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\LoginPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\LoginPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\LoginPage.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T15:31:44.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\App.xaml.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:27:47.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T11:38:31.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAiwJ4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T11:38:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProfilePage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\ProfilePage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\ProfilePage.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAjwKwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T18:20:16.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\MauiProgram.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:01:55.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PendingRequestsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\PendingRequestsPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\PendingRequestsPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\PendingRequestsPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\PendingRequestsPage.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAjwIkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:32:11.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MyPostsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\MyPostsPage.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\MyPostsPage.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\MyPostsPage.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\MyPostsPage.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAwCcBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T05:53:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\appsettings.json",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\appsettings.json",
+              "RelativeToolTip": "CampusConnect.Mobile\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T13:05:28.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LikeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\LikeResponse.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\LikeResponse.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\LikeResponse.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\LikeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T13:15:34.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T17:30:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FriendSearchResult.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendSearchResult.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\FriendSearchResult.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendSearchResult.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\FriendSearchResult.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:25:25.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FriendModels.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendModels.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\FriendModels.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\FriendModels.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\FriendModels.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:11:20.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:57:25.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\AppShell.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\AppShell.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\AppShell.xaml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAEwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T12:01:23.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\App.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\App.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T12:01:12.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Friendship.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Friendship.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Models\\Friendship.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Models\\Friendship.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Models\\Friendship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:37:42.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FriendsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\FriendsPage.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\FriendsPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\FriendsPage.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\FriendsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T11:59:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CampusConnect.Mobile.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\CampusConnect.Mobile.csproj",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\CampusConnect.Mobile.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\CampusConnect.Mobile.csproj",
+              "RelativeToolTip": "CampusConnect.Mobile\\CampusConnect.Mobile.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T13:03:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:36:18.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\SearchPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:37:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\AppShell.xaml.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:38:53.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\ProfilePage.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T12:00:28.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Views\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Views\\SearchPage.xaml",
+              "RelativeToolTip": "CampusConnect.Mobile\\Views\\SearchPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T12:00:58.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Platforms\\Windows\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\Windows\\App.xaml.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Platforms\\Windows\\App.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:25:58.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Platforms\\iOS\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\iOS\\AppDelegate.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Platforms\\iOS\\AppDelegate.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:26:06.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppDelegate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Platforms\\MacCatalyst\\AppDelegate.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:25:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "CampusConnect.Mobile\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CampusConnect.Mobile\\CampusConnect.Mobile\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "CampusConnect.Mobile\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:33:59.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CampusConnect.Mobile</name>
+    </assembly>
+    <members>
+        <member name="M:CampusConnect.Mobile.Views.ProfilePage.CreateFieldRow(System.String,System.String,Microsoft.Maui.Controls.Label@)">
+            <summary>
+            Helper for creating a field row with icon and value
+            </summary>
+        </member>
+    </members>
+</doc>
